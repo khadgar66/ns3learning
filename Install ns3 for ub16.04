@@ -1,0 +1,20 @@
+apt-get install gcc g++ python
+apt-get install gcc g++ python python-dev
+apt-get install mercurial python-setuptools git
+apt-get install qt4-dev-tools libqt4-dev
+apt-get install cmake libc6-dev libc6-dev-i386 g++-multilib
+apt-get install gdb valgrind 
+apt-get install gsl-bin libgsl2 libgsl-dev
+apt-get install flex bison libfl-dev
+apt-get install tcpdump
+apt-get install sqlite sqlite3 libsqlite3-dev
+apt-get install libxml2 libxml2-dev
+apt-get install libgtk2.0-0 libgtk2.0-dev
+apt-get install vtun lxc
+apt-get install uncrustify
+apt-get install doxygen graphviz imagemagick
+apt-get install texlive texlive-extra-utils texlive-latex-extra texlive-font-utils texlive-lang-portuguese dvipng
+apt-get install python-sphinx dia 
+apt-get install python-pygraphviz python-kiwi 
+apt-get install libboost-signals-dev libboost-filesystem-dev
+apt-get install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev
