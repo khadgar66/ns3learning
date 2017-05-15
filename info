@@ -1,0 +1,98 @@
+Warning: Environment variable SUMO_HOME is not set, using built in type maps.
+Warning: Environment variable SUMO_HOME is not set, schema resolution will use slow website lookups.
+Warning: Discarding unknown compound 'cycleway.shared_lane' in type 'cycleway.shared_lane|highway.secondary' (first occurence for edge '5670348#0').
+Warning: Discarding unknown compound 'cycleway.lane' in type 'cycleway.lane|highway.unclassified' (first occurence for edge '22946813#0').
+Warning: Discarding unknown compound 'cycleway.lane' in type 'cycleway.lane|highway.secondary' (first occurence for edge '46579577#0').
+Warning: Discarding unusable type 'railway.abandoned' (first occurence for edge '398927709#0').
+Warning: Discarding unknown compound 'cycleway.lane' in type 'cycleway.lane|highway.primary' (first occurence for edge '420890023').
+Warning: Discarding unknown compound 'route.bicycle' in type 'highway.primary|route.bicycle' (first occurence for edge '439801902').
+Warning: Discarding unknown compound 'cycleway.shared_lane' in type 'cycleway.shared_lane|highway.primary' (first occurence for edge '439801903').
+Warning: Discarding unusable type 'railway.platform' (first occurence for edge '449269336').
+Warning: No way found for reference '346613529' in relation '5805124'
+Warning: No way found for reference '420898203' in relation '5805124'
+Warning: Ignoring restriction relation '5805124' with unknown from-way.
+Warning: Ignoring restriction relation '5805124' with unknown to-way.
+Warning: No way found for reference '346613528' in relation '5805125'
+Warning: Ignoring restriction relation '5805125' with unknown from-way.
+Warning: No way found for reference '420890029' in relation '6247386'
+Warning: Ignoring restriction relation '6247386' with unknown type.
+Warning: Ignoring restriction relation '6247386' with unknown from-way.
+Warning: No way found for reference '420509471' in relation '6250269'
+Warning: No way found for reference '194926856' in relation '6250269'
+Warning: Ignoring restriction relation '6250269' with unknown from-way.
+Warning: Ignoring restriction relation '6250269' with unknown to-way.
+Warning: No way found for reference '440947098' in relation '6564642'
+Warning: No way found for reference '346613529' in relation '6564642'
+Warning: Ignoring restriction relation '6564642' with unknown from-way.
+Warning: Ignoring restriction relation '6564642' with unknown to-way.
+Warning: No way found for reference '346613528' in relation '6700980'
+Warning: Ignoring restriction relation '6700980' with unknown to-way.
+Warning: No way found for reference '308322447' in relation '6738897'
+Warning: Ignoring restriction relation '6738897' with unknown to-way.
+Warning: Found sharp turn with radius 6.79 at the start of edge '108199247#0'.
+Warning: Found sharp turn with radius 5.71 at the start of edge '128578942#4'.
+Warning: Found sharp turn with radius 8.25 at the end of edge '128578954'.
+Warning: Found sharp turn with radius 5.27 at the end of edge '128578955'.
+Warning: Found sharp turn with radius 7.01 at the start of edge '153232755#3'.
+Warning: Found angle of 99.92 degrees at edge '153232755#3', segment 1
+Warning: Found sharp turn with radius 6.91 at the end of edge '153232755#3'.
+Warning: Found angle of 100.79 degrees at edge '153232755#4', segment 5
+Warning: Found sharp turn with radius 4.97 at the end of edge '153232755#4'.
+Warning: Found sharp turn with radius 8.55 at the start of edge '153232761#0'.
+Warning: Found angle of 151.79 degrees at edge '153232761#9', segment 2
+Warning: Found sharp turn with radius 0.03 at the end of edge '153232761#9'.
+Warning: Found sharp turn with radius 3.99 at the end of edge '171574338#1'.
+Warning: Found sharp turn with radius 4.25 at the end of edge '171574338#2'.
+Warning: Found sharp turn with radius 7.66 at the start of edge '251410473#1'.
+Warning: Found sharp turn with radius 8.58 at the start of edge '251410473#2'.
+Warning: Found sharp turn with radius 7.74 at the start of edge '251410473#3'.
+Warning: Found sharp turn with radius 8.57 at the start of edge '251410473#4'.
+Warning: Found sharp turn with radius 8.70 at the end of edge '265359107'.
+Warning: Found angle of 107.48 degrees at edge '329988122#0', segment 0
+Warning: Found sharp turn with radius 4.60 at the start of edge '329988122#0'.
+Warning: Found sharp turn with radius 2.78 at the start of edge '329995849#7'.
+Warning: Found sharp turn with radius 3.75 at the end of edge '329995853#0'.
+Warning: Found angle of 99.61 degrees at edge '329995856#1', segment 0
+Warning: Found sharp turn with radius 8.99 at the start of edge '329995860#1'.
+Warning: Found sharp turn with radius 6.09 at the start of edge '329995860#3'.
+Warning: Found sharp turn with radius 3.11 at the end of edge '329995860#3'.
+Warning: Found sharp turn with radius 8.39 at the start of edge '362157043#0'.
+Warning: Found sharp turn with radius 2.80 at the end of edge '362157043#0'.
+Warning: The traffic light '2061592973' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '2061592973'
+Warning: The traffic light '4016646206' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4016646206'
+Warning: The traffic light '42423674' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42423674'
+Warning: The traffic light '42428303' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42428303'
+Warning: The traffic light '42428332' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42428332'
+Warning: The traffic light '42428588' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42428588'
+Warning: The traffic light '42430747' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42430747'
+Warning: The traffic light '42431560' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42431560'
+Warning: The traffic light '42432594' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42432594'
+Warning: The traffic light '42432703' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42432703'
+Warning: The traffic light '42437368' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42437368'
+Warning: The traffic light '42440935' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42440935'
+Warning: The traffic light '42443320' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42443320'
+Warning: The traffic light '42443326' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42443326'
+Warning: The traffic light '42443346' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42443346'
+Warning: The traffic light '42444954' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42444954'
+Warning: The traffic light '42445025' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '42445025'
+Warning: The traffic light '4491377964' does not control any links; it will not be build.
+Warning: Could not build program '0' for traffic light '4491377964'
+Success.
+

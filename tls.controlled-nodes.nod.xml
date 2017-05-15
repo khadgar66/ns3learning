@@ -1,0 +1,10 @@
+<nodes>
+<node id = "42428570" type="traffic_light">
+<node id = "2061592973" type = "trafic_light">
+<node id = "4016646206" type = "traffic_light">
+<node id = "42423674" type = "trafic_light">
+<node id = "42428588" type = "trafic_light">
+<node id = "4347550054" type ="trafic_light">
+<node id = "" type = "trafic_light">
+
+</nodes>
