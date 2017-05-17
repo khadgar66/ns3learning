@@ -71,7 +71,7 @@ int main(int argc, char **argv)
 
   NodeContainer nodes;
   nodes.Create (size);
-  Ns2MobilityHelper ns2 = Ns2MobilityHelper("scratch.map.map.tcl");
+  Ns2MobilityHelper ns2 = Ns2MobilityHelper("scratch/map.map.tcl");
   ns2.Install();
 
 
